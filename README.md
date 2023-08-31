@@ -78,7 +78,7 @@ $ git clone --depth=1 https://github.com/adi1090x/rofi.git
 
 - Change to cloned directory and make `setup.sh` executable -
 ```
-$ cd rofi
+$ cd rofi_personal_framework
 $ chmod +x setup.sh
 ```
 
